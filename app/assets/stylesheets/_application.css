@@ -2,6 +2,11 @@
 	outline: 1px solid red;
 }*/
 
+body {
+	max-width: 600px;
+	padding-left: 50px;
+}
+
 div#logo {
 	max-height: 75px;
 	max-width: 75px;
